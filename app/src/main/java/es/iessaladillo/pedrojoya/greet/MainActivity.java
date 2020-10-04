@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setDefaults() {
+        binding.prBarGreet.setMax(MAX_GREET);
         binding.rdgTreatment.check(R.id.rdb_mr);
     }
 

@@ -104,7 +104,6 @@
     <androidx.core.widget.ContentLoadingProgressBar
         android:id="@+id/prBar_greet"
         android:layout_width="match_parent"
-        android:max="10"
         style="@style/Widget.AppCompat.ProgressBar.Horizontal"
         android:layout_height="@dimen/prBar_height"
         android:layout_marginVertical="@dimen/main_inner_margin" />
